@@ -1,3 +1,3 @@
-# Cryptocurrency Historical Prices Data Analysis
+# Cryptocurrency Historical Prices Correlation Analysis
 
-In this project we clean our cryptocurrency historical price data and we calculate correlations among their features.
+In this project we clean our cryptocurrency historical prices data and we then calculate correlations among their features.
